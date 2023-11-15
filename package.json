@@ -1,0 +1,16 @@
+{
+  "name": "fuse-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "server": "node ./src/server.js",
+    "fs": "node ./src/fs.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fuse-bindings": "^2.12.4"
+  }
+}
